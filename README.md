@@ -1,5 +1,6 @@
-[image1]: ./outputs/TrainingValidationLoss.png "TrainingValidationLoss"
-[image2]: ./outputs/PredictionsCheck.png "PredictionsCheck" 
+[image1]: ./outputs/TrainingOutputNumbers.png "TrainingOutputNumbers"
+[image2]: ./outputs/TrainingValidationLoss.png "TrainingValidationLoss"
+[image3]: ./outputs/PredictionsCheck.png "PredictionsCheck" 
 
 
 # Udacity-DeepLearningNN-project-bikesharing
@@ -16,8 +17,10 @@ Setup Instructions taken from [here](https://classroom.udacity.com/nanodegrees/n
 
 ![alt text][image1]
 
+![alt text][image2]
+
 ## Predictions Check Graph
 
-![alt text][image2]
+![alt text][image3]
 
 
