@@ -1,5 +1,5 @@
-[image1]: ./output_images/TrainingValidationLoss.png "TrainingValidationLoss"
-[image2]: ./output_images/PredictionsCheck.png "PredictionsCheck" 
+[image1]: ./outputs/TrainingValidationLoss.png "TrainingValidationLoss"
+[image2]: ./outputs/PredictionsCheck.png "PredictionsCheck" 
 
 
 # Udacity-DeepLearningNN-project-bikesharing
